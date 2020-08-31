@@ -14,6 +14,7 @@ public class User {
 
     private String name;
     private String email;
+    //implementar criptografia na senha em base64
     private String password;
 
     public String getName() {
